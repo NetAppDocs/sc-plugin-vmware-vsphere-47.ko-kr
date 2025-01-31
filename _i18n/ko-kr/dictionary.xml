@@ -1828,7 +1828,6 @@
   <block id="3a3a5cd068731551120f43f37950768b" category="list-text">ONTAP Select</block>
   <block id="4ecac70efff8d20a57fcdc88eed604e5" category="paragraph">SnapCenter 표준 라이센스를 보조 대상에 추가하는 것이 좋지만 필수는 아닙니다. 보조 시스템에서 SnapCenter 표준 라이센스가 활성화되어 있지 않으면 페일오버 작업을 수행한 후 SnapCenter를 사용할 수 없습니다. 그러나 마운트 및 연결 작업을 수행하려면 보조 스토리지의 FlexClone 라이센스가 필요합니다. 복원 작업을 수행하려면 SnapRestore 라이센스가 필요합니다.</block>
   <block id="35b654fd14f12a33551c1993b5321fcb" category="summary">VMware vSphere(SCV)용 SnapCenter 플러그인은 Linux 기반 가상 어플라이언스입니다. 독립 실행형으로서 VM, 데이터 저장소 및 VMDK에 대해 빠르고 공간 효율적이며 장애 발생 시 정합성이 보장되는 백업 및 복원 작업을 제공합니다. 또한 SnapCenter Server와 함께 작동하여 SnapCenter 애플리케이션별 플러그인을 위한 VMware 환경에서 애플리케이션 기반 백업 및 복구 작업을 지원합니다.</block>
-  <block id="8c3d0c00ea667e3e0723e5cdc6473a09" category="doc">VMware vSphere용 SnapCenter 플러그인 설명서</block>
   <block id="75ea96b6d8c73a8d05259ac9f34d62ff" category="summary">VMware vSphere GUI용 SnapCenter 플러그인에서 지원 번들을 생성할 수 있습니다.</block>
   <block id="ecfc133fda25b37d408886c1a66ff36a" category="doc">VMware vSphere GUI용 SnapCenter 플러그인에서 지원 번들을 생성합니다</block>
   <block id="27425ddfb17560020340393af9842680" category="paragraph">VMware vSphere 관리 GUI용 SnapCenter 플러그인에 로그온하려면 IP 주소와 로그인 자격 증명을 알고 있어야 합니다.</block>
@@ -1930,7 +1929,6 @@
   <block id="a3d53cfe9124531cb5f9bbfefe704326" category="sidebar">REST API 워크플로우를 사용하여 기본 제공 일정을 수정합니다</block>
   <block id="f683581d3e75f05f9d9215f9b4696cef" category="sidebar">업그레이드</block>
   <block id="3da6944b1baaec4beb70694ac307fd1f" category="sidebar">동일한 릴리즈의 새 패치로 업그레이드합니다</block>
-  <block id="3390e3575b3e341afa2b7172ff5b33a7" category="sidebar">VMware vSphere용 SnapCenter 플러그인</block>
   <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
   <block id="a1a9afcf552a769c282769271829889a" category="paragraph"><block ref="a1a9afcf552a769c282769271829889a" category="inline-link-macro-rx"></block></block>
   <block id="f99aa604031e5049799e73b5c3748a98" category="inline-link-macro"><block ref="f99aa604031e5049799e73b5c3748a98" category="inline-link-rx"></block></block>
@@ -1939,4 +1937,5 @@
   <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="8a7a1ff56675136d7a0bec1d5e693833" category="sidebar">VMware vSphere 4.7 설명서용 SnapCenter 플러그인</block>
 </blocks>
